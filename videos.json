@@ -1,0 +1,3965 @@
+
+[
+    {
+        "language": "English",
+        "speakers": [
+            "Peter Steinberger"
+        ],
+        "title": "How to bend UIKit to your will",
+        "tags": [
+            "uikit",
+            "swizzling",
+            "low level",
+            "runtime"
+        ],
+        "youtube": "psPNxC3G_hc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Cesare Rocchi"
+        ],
+        "title": "Autolayout? Oh boy",
+        "tags": [
+            "autolayout"
+        ],
+        "youtube": "kwzsUmozIj0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "James Weiner"
+        ],
+        "title": "Build for familiarity (or no one will use your app)",
+        "tags": [],
+        "youtube": "B0s7TOzWXvA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Heathcote"
+        ],
+        "title": "Apps are just the tip of the iceberg",
+        "tags": [],
+        "youtube": "pOHpNC3ECa4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Louisa Heinrich"
+        ],
+        "title": "What's the Point?",
+        "tags": [],
+        "youtube": "qvP_ZFsmNuc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tim Brückmann"
+        ],
+        "title": "Unit Testing on iOS: No Voodoo necessary",
+        "tags": [
+            "testing"
+        ],
+        "youtube": "UYqm1IZacX0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Florian Kugler"
+        ],
+        "title": "Use your tools: App optimization with Instruments",
+        "tags": [
+            "instruments"
+        ],
+        "youtube": "N7ryA7rxsrg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Boris Bügling"
+        ],
+        "title": "Objective-C funtime - know your runtime",
+        "tags": [
+            "runtime"
+        ],
+        "youtube": "vrEoUSuMu_c"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Eggert"
+        ],
+        "title": "Core Data for Fun and Profit",
+        "tags": [
+            "core data"
+        ],
+        "youtube": "iaf3uBja77Y"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Joris Kluivers"
+        ],
+        "title": "Software interactions with the real world",
+        "tags": [
+            "bluetooth"
+        ],
+        "youtube": "-fb4bIkniq8"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Robert Böhnke"
+        ],
+        "title": "How I Learned to Stop Worrying about State and Love ReactiveCocoa",
+        "tags": [
+            "functional reactive programming",
+            "reactivecocoa"
+        ],
+        "youtube": "YlsunWT87eo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marco Arment"
+        ],
+        "tags": [
+            "ios",
+            "indie",
+            "business",
+            "competition",
+            "emotion"
+        ],
+        "youtube": "D2RoYvcqhgM",
+        "title": "Fear and Competition"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michele Titolo"
+        ],
+        "title": "Inheriting code from other people",
+        "tags": [],
+        "youtube": "p_GqpSt7gh0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Orta Therox"
+        ],
+        "title": "CocoaPods",
+        "tags": [],
+        "youtube": "TDAKOYQ7B-4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Conrad Stoll"
+        ],
+        "title": "Demystifying security best practices",
+        "tags": [
+            "security"
+        ],
+        "youtube": "2FHc9QTpsqQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Luis Solano"
+        ],
+        "title": "Techniques for writing DSLs in Objective-C",
+        "tags": [
+            "dsls"
+        ],
+        "youtube": "vv88YvH6Eqs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Matthew Morey"
+        ],
+        "title": "High performance Core Data",
+        "tags": [
+            "core data"
+        ],
+        "youtube": "Du8ggtwNTaM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Piet Brauer"
+        ],
+        "title": "Modular iOS apps",
+        "tags": [],
+        "youtube": "WLfvsemTZuc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Max Bazaliy"
+        ],
+        "title": "Reverse engineering iOS apps",
+        "tags": [],
+        "youtube": "vlaIIYpZUnM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Eric Allam"
+        ],
+        "title": "Building better transitions",
+        "tags": [],
+        "youtube": "44-2vmqQBl0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rachel Andrew"
+        ],
+        "title": "We´re not \"doing a startup\"",
+        "tags": [],
+        "youtube": "TI0RDxyUmvo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sally Shepard"
+        ],
+        "title": "Beyond VoiceOver",
+        "tags": [],
+        "youtube": "OC_pmEW_GjE"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Max Seelemann"
+        ],
+        "title": "TextKit for the rest of us",
+        "tags": [],
+        "youtube": "cNUsaJ3Tmuo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "David Rönnqvist"
+        ],
+        "title": "OpenGL(ES) demystified",
+        "tags": [],
+        "youtube": "8OHYX2RxBuo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nick Lockwood"
+        ],
+        "title": "Image performance",
+        "tags": [],
+        "youtube": "khoabTSgOFA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Katrin Apel"
+        ],
+        "title": "Mobile Backends as a Service",
+        "tags": [],
+        "youtube": "ImL1vlIM_VU"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Christopher Downer"
+        ],
+        "title": "Designing custom interfaces",
+        "tags": [],
+        "youtube": "jQ4i9EQFlNE"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "James Dempsey"
+        ],
+        "title": "A Look Back",
+        "tags": [],
+        "youtube": "vttu_6nw7pc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "The Organizers of Alt"
+        ],
+        "title": "The Organizers of Alt",
+        "tags": [],
+        "youtube": "2vpGckK8P9A"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Victor Broido"
+        ],
+        "title": "Hippie Marketing",
+        "tags": [],
+        "youtube": "rI-Nf40MGkg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Josh Michaels"
+        ],
+        "title": "Finding the Intersection: Thoughts on Art & Tech",
+        "tags": [],
+        "youtube": "fq1srjiQvNE"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Saul Mora"
+        ],
+        "title": "Are we doing what we should be with our time?",
+        "tags": [],
+        "youtube": "FE4V9UjyZTI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Thomas Engel"
+        ],
+        "title": "Volunteering and Tackling World Problems with Your Skills",
+        "tags": [],
+        "youtube": "LU4OpBReBYg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Panel"
+        ],
+        "title": "Design Discussion Panel",
+        "tags": [],
+        "youtube": "33OQ5iYjbnE"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Robert Böhnke"
+        ],
+        "title": "Animations Explained",
+        "tags": [],
+        "youtube": "51_QMii2kqQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Philippe Casgrain"
+        ],
+        "title": "Fostering a Local Development Community",
+        "tags": [],
+        "youtube": "97D6LddwP74"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Luis Solano"
+        ],
+        "title": "Writing DSLs for Swift",
+        "tags": [],
+        "youtube": "a3rR5XVA22w"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael Lopp"
+        ],
+        "title": "Stables and Volatiles",
+        "tags": [],
+        "youtube": "ztmUUkuVWjk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michele Titolo"
+        ],
+        "title": "Demystifying the .xcodeproj File",
+        "tags": [],
+        "youtube": "C4bPKc8eV34"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jay Freeman"
+        ],
+        "title": "\\\"Swift\\\" 20m Introspecting Apple's WWDC App Using Cycript",
+        "tags": [],
+        "youtube": "Ii-02vhsdVk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Panel"
+        ],
+        "title": "Marketing Discussion Panel",
+        "tags": [],
+        "youtube": "sL47N3VXhTo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mattt Thompson"
+        ],
+        "title": "Being a Beginner",
+        "tags": [],
+        "youtube": "XUUEzc3wop4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jonah Neugass"
+        ],
+        "title": "Modularizing an app with GDRouting and CocoaPods",
+        "tags": [],
+        "youtube": "1xpfH15uYZI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jean MacDonald"
+        ],
+        "title": "Communicating Across the Geek Divide",
+        "tags": [],
+        "youtube": "v5VWquKgNIc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sally Shepard"
+        ],
+        "title": "Accessibility: Beyond VoiceOver",
+        "tags": [],
+        "youtube": "4lzP1SsCcyw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ouriel Ohayon"
+        ],
+        "title": "Discovery in the Appstore World",
+        "tags": [],
+        "youtube": "KA9ztNKQJBY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mikey Ward"
+        ],
+        "title": "XPC What I Did There?",
+        "tags": [],
+        "youtube": "HGQ89UjgEMs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jeff Kelley"
+        ],
+        "title": "Dates and Times in iOS",
+        "tags": [],
+        "youtube": "QcQ4RQdBGjA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Aaron Hillegass"
+        ],
+        "title": "Networking on the Mac",
+        "tags": [],
+        "youtube": "24R789nX8ZA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Panel"
+        ],
+        "title": "Games Discussion Panel",
+        "tags": [],
+        "youtube": "0nHqgU899gk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sam Marshall"
+        ],
+        "title": "Insecure Code",
+        "tags": [],
+        "youtube": "lmvqADmLozM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brianna Wu"
+        ],
+        "title": "Nine ways to stop hurting and start helping women in tech",
+        "tags": [],
+        "youtube": "XGqmneujHYY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ray Wenderlich"
+        ],
+        "title": "Adding Juice to your Games",
+        "tags": [],
+        "youtube": "5aGFPpMvILY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael Crump"
+        ],
+        "title": "Enriching the iOS SDK",
+        "tags": [],
+        "youtube": "stTk88mQ5mw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael Mace"
+        ],
+        "title": "The 4 Mobile Traps",
+        "tags": [],
+        "youtube": "Wgz7JmZgRd4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ash Furrow"
+        ],
+        "title": "Reactive Cocoa 101",
+        "tags": [],
+        "youtube": "TlgUWYrQ0sc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Panel"
+        ],
+        "title": "Ethics in Software Discussion Panel",
+        "tags": [],
+        "youtube": "BXKrOrhJMGg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Andrew Stone"
+        ],
+        "title": "Reflections on device addictions, the big data state, and alternative futures.",
+        "tags": [],
+        "youtube": "Ffa90t7T35g"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Yang Meyer"
+        ],
+        "title": "Designers ♥︎ Developers",
+        "tags": [],
+        "youtube": "Qi5EBgfvqIQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike Lee"
+        ],
+        "title": "Being Better",
+        "tags": [],
+        "youtube": "UfjiWzcGPdk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Carla White"
+        ],
+        "title": "Mindful Design & Marketing",
+        "tags": [],
+        "youtube": "2k9aFMGLQM4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Boris Bügling"
+        ],
+        "title": "Extending Xcode",
+        "tags": [],
+        "youtube": "6LcflnBHyXs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nadyne Richmond"
+        ],
+        "title": "User Research for a Better Product",
+        "tags": [],
+        "youtube": "hT5UXAg9GGs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Orta Therox"
+        ],
+        "title": "Project Eigen Post Mortem",
+        "tags": [],
+        "youtube": "2DvDeEZ0NDw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sofia Dvoynos"
+        ],
+        "title": "From Zero to Marketing in 7 days",
+        "tags": [],
+        "youtube": "_mdrJOV0L3M"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jay Thrash"
+        ],
+        "title": "Using Quartz Composer and Origami",
+        "tags": [],
+        "youtube": "dVmdFNbcjGQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mark Pauley"
+        ],
+        "title": "The Real Power of BLE",
+        "tags": [],
+        "youtube": "iToKETXdwvU"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brent Simmons"
+        ],
+        "title": "Implementing Sync In Vesper",
+        "tags": [],
+        "youtube": "6BsHIa-1psc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Panel"
+        ],
+        "title": "WWDC Keynote Panel Discussion",
+        "tags": [],
+        "youtube": "JqXC6HNjgoo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Dave Wiskus"
+        ],
+        "title": "How to Make a Vesper",
+        "tags": [],
+        "youtube": "AiwgQIMkiFw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jonathan Rhyne"
+        ],
+        "title": "Debugging the Contract",
+        "tags": [],
+        "youtube": "wA0_A2Jvz6I"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jon Sterling"
+        ],
+        "title": "Modularity à la Taliban",
+        "tags": [
+            "functional programming"
+        ],
+        "youtube": "kuZ5eR2JcSo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Justin Spahr-Summers"
+        ],
+        "title": "The Future Of ReactiveCocoa",
+        "tags": [
+            "functional programming"
+        ],
+        "youtube": "ICNjRS2X8WM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Dave Lee"
+        ],
+        "title": "RACify Non-Reactive Code",
+        "tags": [
+            "functional programming"
+        ],
+        "youtube": "sek0ohbboNU"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michele Titolo"
+        ],
+        "title": "Can't handle my scale",
+        "vimeo": 109624121
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Krzysztof Kucharewicz"
+        ],
+        "title": "Autolayout for everyone",
+        "tags": [
+            "autolayout"
+        ],
+        "vimeo": 109222175
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Andrew Yates"
+        ],
+        "title": "What to do when you get hacked?",
+        "vimeo": 108659428
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike Ash"
+        ],
+        "title": "Swift and C",
+        "tags": [
+            "swift"
+        ],
+        "vimeo": 107707576
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Meng To"
+        ],
+        "title": "iOS Prototyping",
+        "tags": [],
+        "youtube": "q9Ax11IZiIE"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Hannes Verlinde"
+        ],
+        "title": "Seamless device communication",
+        "tags": [],
+        "youtube": "T71O5-zKfiM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Alberto López"
+        ],
+        "title": "v.zero: A modern foundation for accepting payments",
+        "tags": [],
+        "youtube": "vjSdj83shNQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marco Grassi"
+        ],
+        "title": "iOS Apps Security",
+        "tags": [],
+        "youtube": "Ws2QzE-DK5c"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Krzysztof Zabłocki"
+        ],
+        "title": "Behaviours: a way to simplify your application code",
+        "tags": [],
+        "youtube": "QMVcIJz2sfg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Steinberg"
+        ],
+        "title": "What the func?",
+        "tags": [
+            "swift",
+            "functional programming"
+        ],
+        "youtube": "Yl21K64J7mw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Peter Steinberger"
+        ],
+        "title": "Scaling Your Indie Business",
+        "tags": [
+            "indie",
+            "business"
+        ],
+        "youtube": "0iQeaoP3Nh8"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Christine Corbett"
+        ],
+        "title": "Open Source iOS",
+        "tags": [
+            "open source"
+        ],
+        "youtube": "mVju1coG_6Q"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Soledad Penades"
+        ],
+        "title": "Embracing Failure",
+        "tags": [
+            "failure"
+        ],
+        "youtube": "CqvEnD9mIo8"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kyle Fuller"
+        ],
+        "title": "ICYMI: Core Data",
+        "tags": [
+            "core data"
+        ],
+        "youtube": "gqhVMXenLdg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Gwynne Raskind"
+        ],
+        "title": "The Why and How of Assembly Language",
+        "tags": [
+            "assembly",
+            "low level"
+        ],
+        "youtube": "SSCxm5_IloU"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Matt Galloway"
+        ],
+        "title": "Strings: From 0 to 🐓🍟 (Chicken and Chips)",
+        "tags": [
+            "strings",
+            "unicode"
+        ],
+        "youtube": "ryT3gLolQ7Q"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Joachim Kurz"
+        ],
+        "title": "Laziness in Swift",
+        "tags": [
+            "swift",
+            "functional programming"
+        ],
+        "youtube": "1w2WEs0UjAA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sam Marshall"
+        ],
+        "title": "Everything is Terrible",
+        "tags": [
+            "code signing",
+            "provisioning"
+        ],
+        "youtube": "CQn9AAZonMk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Neil Kimmett"
+        ],
+        "title": "Lessons learned from cooking up an app",
+        "tags": [],
+        "youtube": "sMiE65xPH84"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sally Shepard"
+        ],
+        "title": "Psychoacoustics and Auditory Illusions for App Development",
+        "tags": [
+            "audio"
+        ],
+        "youtube": "sDOq8d7SAIQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Krzysztof Zabłocki"
+        ],
+        "title": "Empower your Objective-C",
+        "tags": [
+            "code quality"
+        ],
+        "youtube": "cINmPrJzQeM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael May"
+        ],
+        "title": "Monocultural",
+        "tags": [
+            "culture",
+            "inclusivity"
+        ],
+        "youtube": "yP5KWNLHD6Y"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Francesco Frison"
+        ],
+        "title": "Operators Overload",
+        "tags": [
+            "operators",
+            "swift"
+        ],
+        "youtube": "ZRzroz8Uyj4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Robin Christopherson"
+        ],
+        "title": "Technology: The Power and the Promise",
+        "tags": [
+            "accessibility",
+            "inclusion",
+            "speech"
+        ],
+        "youtube": "DyNoSolM1G0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mitchell Allison"
+        ],
+        "title": "Compiling Swift with Swift... and other bad ideas",
+        "tags": [
+            "swift"
+        ],
+        "youtube": "F_fCLnMj89Y"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Eidhof"
+        ],
+        "title": "Functional Swift",
+        "tags": [
+            "swift",
+            "functional programming",
+            "coreimage"
+        ],
+        "youtube": "vbMjd-Ms-_o"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rob Stearn"
+        ],
+        "title": "Who's afraid of auto layout?",
+        "tags": [
+            "autolayout"
+        ],
+        "youtube": "Ah0uA3TZ_mQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike Lee"
+        ],
+        "title": "Hard Ideas",
+        "tags": [
+            "environmental change"
+        ],
+        "youtube": "_00qkCCuWc0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brandon Williams"
+        ],
+        "title": "Functional Programming in a Playground",
+        "tags": [
+            "playground",
+            "category theory"
+        ],
+        "youtube": "estNbh2TF3E"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "John Gallagher"
+        ],
+        "title": "Networking with Monads",
+        "tags": [
+            "monads",
+            "networking",
+            "railway oriented programming"
+        ],
+        "youtube": "LqwrUmuodyY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Andy Matuschak"
+        ],
+        "title": "Functioning as a Functionalist",
+        "tags": [
+            "functional programming",
+            "value types",
+            "swift"
+        ],
+        "youtube": "rJosPrqBqrA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Justin Spahr-Summers"
+        ],
+        "title": "Enemy Of The State",
+        "tags": [
+            "functional reactive programming"
+        ],
+        "youtube": "7AqXBuJOJkY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brian Gesiak"
+        ],
+        "title": "Functional Testing",
+        "tags": [
+            "bananakit",
+            "testing"
+        ],
+        "youtube": "-TOp5-uComQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Natasha Murashev"
+        ],
+        "title": "The Functional Way",
+        "tags": [
+            "functional programming"
+        ],
+        "youtube": "tohEJSq9gds"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Scott Goodson"
+        ],
+        "title": "Effortless Responsiveness with AsyncDisplayKit",
+        "tags": [
+            "interface"
+        ],
+        "youtube": "ZPL4Nse76oY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Eidhof"
+        ],
+        "title": "Fun with Swift",
+        "tags": [
+            "swift"
+        ],
+        "youtube": "KNJ_UPebGOQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Krzysztof Zabłocki"
+        ],
+        "title": "Stop recompiling",
+        "youtube": "_IrYVOLPL1Y"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "David Rönnqvist"
+        ],
+        "title": "Made for Everyone",
+        "youtube": "lYONeoA1ukM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike Lazer-Walker"
+        ],
+        "title": "What does it mean for code to be maintainable?",
+        "youtube": "Qfw_kHoSbCg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Max Bazaliy"
+        ],
+        "title": "Securing iOS applications",
+        "youtube": "qaeN-rk_YVU",
+        "tags": [
+            "security"
+        ]
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marcus S. Zarra"
+        ],
+        "title": "Core Data: Multi-Threading Clarity",
+        "tags": [
+            "core data"
+        ],
+        "youtube": "ckbke8vjHMw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Adam Ernst"
+        ],
+        "title": "Immutable Models on iOS",
+        "tags": [
+            "functional programming"
+        ],
+        "youtube": "DK3vO3fUnlo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "JP Simard"
+        ],
+        "title": "Fixing the Swift Tooling Problem",
+        "tags": [],
+        "youtube": "flSMEw_Hxik"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Claus Höfele"
+        ],
+        "title": "Practical WatchKit Development",
+        "tags": [
+            "watchos"
+        ],
+        "youtube": "T9h72hH9TWA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brian Gesiak"
+        ],
+        "title": "iOS API Design: Swift Patterns",
+        "tags": [],
+        "youtube": "yu6KND7dJBA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Saniul Ahmed"
+        ],
+        "title": "Prototyping Touch Interfaces (and my open-source story)",
+        "tags": [],
+        "youtube": "O9HQqNjdxPM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jens Ravens"
+        ],
+        "title": "Functional Reactive Programming without Black Magic - Build your own...",
+        "tags": [
+            "functional reactive programming"
+        ],
+        "youtube": "AcDaWe3S75c"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike Lee"
+        ],
+        "title": "World Modelling",
+        "tags": [],
+        "youtube": "SDZkKvC8r40"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Natasha Murashev"
+        ],
+        "title": "Swift Thinking",
+        "tags": [],
+        "youtube": "4uPCVMfWY34"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Halle Winkler"
+        ],
+        "title": "Duct-taping the gates of chaos shut: the weird, little, useful, su...",
+        "tags": [],
+        "youtube": "83fqt9MPHD8"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Graham Lee"
+        ],
+        "title": "Object-Oriented Programming in Objective-C",
+        "tags": [],
+        "youtube": "_BbGxpiYFDg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Maxim Cramer"
+        ],
+        "title": "A Journey into Design",
+        "tags": [],
+        "youtube": "gSnUt9ZfslM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Eidhof"
+        ],
+        "title": "Functional View Controllers",
+        "tags": [
+            "view controllers"
+        ],
+        "youtube": "uQFI9rDrl8s"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Eli Perkins"
+        ],
+        "title": "Staters Gonna State",
+        "tags": [],
+        "youtube": "TfW0y7LLTpI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marcel Weiher"
+        ],
+        "title": "Software Architecture in iOS and OS X Applications",
+        "tags": [],
+        "youtube": "B5hGmXFHQS4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ash Furrow"
+        ],
+        "title": "Teaching and Learning",
+        "tags": [],
+        "youtube": "SjjvnrqDjpM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Hector Zarate"
+        ],
+        "title": "iOS at Spotify: From Plan to Done",
+        "tags": [],
+        "youtube": "DWw1ankfqO0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Joe Burgess"
+        ],
+        "title": "Learning Swift Through Lessons in Haskell",
+        "tags": [
+            "haskell"
+        ],
+        "youtube": "46nJlZ3RT_I"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tom Adriaenssen"
+        ],
+        "title": "Async View Controllers",
+        "tags": [
+            "view controllers"
+        ],
+        "youtube": "xy-xqj3m_Tk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Junior Bontognali"
+        ],
+        "title": "Monads are not Monsters",
+        "tags": [
+            "monads"
+        ],
+        "youtube": "vg7cOF30Svo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Oliver Drobnik"
+        ],
+        "title": "iOS Subscriptions 2.0",
+        "tags": [],
+        "youtube": "_hHDYKJkdyU"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Martina Pagura"
+        ],
+        "title": "Let's Prototype it!",
+        "tags": [],
+        "youtube": "QlBMd7tyqiQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Anton McConville"
+        ],
+        "title": "Presence, Personality and Pulse",
+        "tags": [],
+        "youtube": "1Om6l2nGTgI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Micheal Flarup"
+        ],
+        "title": "Design better app icons",
+        "tags": [],
+        "youtube": "o35WeRqV6Rc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Anastasia Kazakova"
+        ],
+        "title": "Be armed to the teeth to ...",
+        "tags": [],
+        "youtube": "wN-4dUUarOo"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Javier Soto"
+        ],
+        "title": "Swift Sync and Async Error Handling",
+        "tags": [
+            "sync",
+            "async",
+            "error handling"
+        ],
+        "youtube": "mbd6g7NfR-8"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Bogo Giertler"
+        ],
+        "title": "Maintaining Sanity and Code",
+        "tags": [],
+        "youtube": "nlhHiyNu1LU"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Fahim Farook"
+        ],
+        "title": "An Exploration of Debugging Techniques and Tools",
+        "tags": [
+            "debugging"
+        ],
+        "youtube": "qU2AYfnDdxk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Roshni Mahtani"
+        ],
+        "title": "Making it Count",
+        "tags": [],
+        "youtube": "0T0FJJ6Mo0E"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mugunth Kumar"
+        ],
+        "title": "tvOS Platform and APIs",
+        "tags": [
+            "tvos"
+        ],
+        "youtube": "VfKvFBp91pA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Justin Lee"
+        ],
+        "title": "Building Smarter Applications Using Cognitive Computing",
+        "tags": [
+            "cognitive computing"
+        ],
+        "youtube": "KVPw3LfM1t4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Takemura Ori"
+        ],
+        "title": "Good UX and Design for Humans",
+        "tags": [
+            "ux",
+            "design"
+        ],
+        "youtube": "nj7RLxEU98o"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ben Asher"
+        ],
+        "title": "Grand Central Dispatch (GCD), How Yelp uses GCD",
+        "tags": [
+            "gcd",
+            "yelp"
+        ],
+        "youtube": "TGr5aefC92w"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Stan Chang"
+        ],
+        "title": "Tooling in Swift - Xcode Integration & CI",
+        "tags": [
+            "integration",
+            "ci",
+            "swift"
+        ],
+        "youtube": "LvV1W3BcB0o"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Alan Wong"
+        ],
+        "title": "Building an Invisible App",
+        "tags": [],
+        "youtube": "J0d97U8pKwI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Anastasiia Voitova"
+        ],
+        "title": "Data protection for mobile client-server architectures",
+        "tags": [
+            "security"
+        ],
+        "youtube": "zKvt0fv_mkc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Pim Stolk"
+        ],
+        "title": "Future prooving your iOS apps",
+        "tags": [
+            "architecture"
+        ],
+        "youtube": "N5xLQGqmvhQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Jalkut"
+        ],
+        "title": "Apple's Next Big Language",
+        "tags": [
+            "assembly",
+            "swift"
+        ],
+        "youtube": "ZUlRPs9ztRY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Dan Federman"
+        ],
+        "title": "Conquering CoreBluetooth, a Survival Guide",
+        "tags": [
+            "bluetooth"
+        ],
+        "youtube": "DWROaUFvOWc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nikita Lutsenko"
+        ],
+        "title": "The Parse SDK: What's inside?",
+        "tags": [
+            "architecture",
+            "objective-c"
+        ],
+        "youtube": "q-Dwu7zHIWk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Axel Roest"
+        ],
+        "title": "tvOS Perks and Pitfalls",
+        "tags": [
+            "tvos"
+        ],
+        "youtube": "1KPQHDCAh0c"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Katy Price"
+        ],
+        "title": "Topcoder: The Anatomy of a Challenge",
+        "tags": [
+            "business",
+            "marketing"
+        ],
+        "youtube": "2ktBxsDryvg"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Natasha Murashev"
+        ],
+        "title": "Protocol Oriented MVVM",
+        "tags": [
+            "mmvm",
+            "swift"
+        ],
+        "youtube": "cGWBpra3YMc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Steinberg"
+        ],
+        "title": "Ready for the future",
+        "tags": [
+            "programming language",
+            "swift"
+        ],
+        "youtube": "vPoXUZTMxNs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Robert van Loghem"
+        ],
+        "title": "Let your designer tweak and deploy your app to his/hers heart content!",
+        "tags": [
+            "integration",
+            "devops"
+        ],
+        "youtube": "WhAF_0Y6MEI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marin Todorov"
+        ],
+        "title": "Power up your animations",
+        "tags": [
+            "animation"
+        ],
+        "youtube": "WP-gZi1byDI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "JP Simard",
+            "Thomas Visser",
+            "Boris Bügling",
+            "Veronica Ray"
+        ],
+        "title": "Open Sourcing Swift",
+        "tags": [],
+        "youtube": "cmJcc3VAm3c",
+        "direct-link": "http://www.skilled.io/swiftsummit/open-sourcing-swift"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "JP Simard"
+        ],
+        "title": "Working with Binary Data in Swift",
+        "tags": [],
+        "youtube": "kz6d-ES7WtE",
+        "direct-link": "http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ash Furrow"
+        ],
+        "title": "Discovering Best Practices in Swift",
+        "tags": [],
+        "youtube": "f3pd-qhVY40",
+        "direct-link": "http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Greg Heo"
+        ],
+        "title": "What the 55 Swift Standard Library Protocols Taught Me",
+        "tags": [
+            "protocols"
+        ],
+        "youtube": "_kpYI6GjCuw",
+        "direct-link": "http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Wendy Lu"
+        ],
+        "title": "Exploring Apple Pay with Swift",
+        "tags": [
+            "apple pay",
+            "swift"
+        ],
+        "youtube": "uXLNSlTKADo",
+        "direct-link": "http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Thomas Hanning"
+        ],
+        "title": "Error Handling in Swift 2",
+        "tags": [
+            "swift",
+            "error handling"
+        ],
+        "youtube": "aa3kQaDFU3o",
+        "direct-link": "http://www.skilled.io/thomashanning/error-handling-in-swift-2"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Eidhof"
+        ],
+        "title": "Swift Interop",
+        "tags": [
+            "objective-c",
+            "swift",
+            "interoperability",
+            "api"
+        ],
+        "youtube": "Grc4CEV6CFk",
+        "direct-link": "https://www.skilled.io/chriseidhof/swift-interop"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael Patrick Ellard"
+        ],
+        "title": "Lightweight, cross-platform code using Swift",
+        "tags": [
+            "swift",
+            "cross-platform"
+        ],
+        "youtube": "riJJ0vRhfNU",
+        "direct-link": "https://www.skilled.io/mikeellard/lightweight-cross-platform-code-using-swift"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Keith Smiley"
+        ],
+        "title": "Tales of a rewrite at Lyft",
+        "tags": [
+            "swift",
+            "lyft",
+            "rewrite"
+        ],
+        "youtube": "FmT3A_tm9_4",
+        "direct-link": "https://www.skilled.io/keithsmiley/tales-of-a-rewrite-at-lyft"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Wil Shipley"
+        ],
+        "title": "Sharing Swift between iOS and OS X",
+        "tags": [
+            "swift",
+            "sharing",
+            "opengl",
+            "metal"
+        ],
+        "youtube": "_qfwZ-HjVNs",
+        "direct-link": "https://www.skilled.io/wilshipley/sharing-swift-between-ios-and-os-x"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Veronica Ray"
+        ],
+        "title": "Making Swift even more functional",
+        "tags": [
+            "swift",
+            "functional"
+        ],
+        "youtube": "FhqqE-kURAM",
+        "direct-link": "https://www.skilled.io/veronicaray/making-swift-even-more-functional"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Javier Soto"
+        ],
+        "title": "Simple Asynchronous Swift code with ReactiveCocoa 4",
+        "tags": [
+            "swift",
+            "asynchronous",
+            "reactivecocoa"
+        ],
+        "youtube": "Ent6LJDIB3I",
+        "direct-link": "https://www.skilled.io/javiersoto/simple-asynchronous-swift-code-with-reactivecocoa-4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Gwendolyn Weston"
+        ],
+        "title": "Why Swift is swift",
+        "tags": [
+            "swift",
+            "compiler optimization"
+        ],
+        "youtube": "MWBc5F8Upwc",
+        "direct-link": "https://www.skilled.io/purpleyay/why-swift-is-swift"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nick ONeill"
+        ],
+        "title": "Let's Code: Storage for Structs",
+        "tags": [
+            "swift",
+            "serialization"
+        ],
+        "youtube": "dlQjysGjDtY",
+        "direct-link": "https://www.skilled.io/nickoneill/lets-code-storage-for-structs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kristina Thai"
+        ],
+        "title": "How to build a Compelling Watch App",
+        "tags": [
+            "swift",
+            "Apple Watch"
+        ],
+        "youtube": "dKjrDtizX2U",
+        "direct-link": "https://www.skilled.io/kristinathai/how-to-build-a-compelling-watch-app"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Thomas Visser"
+        ],
+        "title": "Beyond the block based API: Building a simple future",
+        "tags": [
+            "swift",
+            "futures",
+            "live coding",
+            "BrightFutures"
+        ],
+        "youtube": "4iV-cmmF1iU",
+        "direct-link": "https://www.skilled.io/thomasvisser/building-a-simple-future-library-in-swift"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Saul Mora"
+        ],
+        "title": "Cocoa APIs in a Swifty world",
+        "tags": [
+            "swift",
+            "cocoa",
+            "API design"
+        ],
+        "youtube": "OCCcfY9U6DY",
+        "direct-link": "https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Veronica Ray"
+        ],
+        "title": "You Used To Inject Me In Your Constructor",
+        "tags": [
+            "dependency injection"
+        ],
+        "youtube": "2--pYf1T6Xc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Agnes Vasarhelyi"
+        ],
+        "title": "Functional Thinking",
+        "tags": [
+            "functional reactive programming"
+        ],
+        "youtube": "hHeideOmLs4"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Alexis Gallagher"
+        ],
+        "title": "Protocols with Associated Types",
+        "youtube": "XWoNjiSPqI8",
+        "tags": [
+            "protocols",
+            "associated types",
+            "pats"
+        ]
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brian Partridge"
+        ],
+        "title": "Result Driven Development",
+        "youtube": "aCm68xAWrno",
+        "tags": [
+            "result",
+            "monads",
+            "flatmap",
+            "errors"
+        ]
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brandon Williams"
+        ],
+        "title": "Lenses in Swift",
+        "youtube": "ofjehH9f-CU",
+        "tags": [
+            "playground",
+            "lenses",
+            "functional programming",
+            "swift"
+        ]
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Eidhof"
+        ],
+        "title": "Functional View Controllers",
+        "tags": [
+            "view controllers",
+            "monads",
+            "flatmap"
+        ],
+        "youtube": "sP156LW5BVs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Colin Barrett"
+        ],
+        "title": "Structure and Interpretation of Swift Programs",
+        "youtube": "V-YvI83QdMs"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Haight"
+        ],
+        "title": "Decision Fatigue",
+        "tags": [
+            "psychology"
+        ],
+        "vimeo": 142398179
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jay Freeman"
+        ],
+        "title": "Feature Or Bug?",
+        "tags": [
+            "inspirational",
+            "hacking"
+        ],
+        "vimeo": 139491450
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michele Titolo"
+        ],
+        "title": "All the [tech] world's a stage",
+        "tags": [
+            "inspirational",
+            "culture"
+        ],
+        "vimeo": 139495595
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Matthew Morey"
+        ],
+        "title": "WatchKit Notifications",
+        "tags": [
+            "watchkit",
+            "watchos"
+        ],
+        "vimeo": 138114340
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nick Harris"
+        ],
+        "title": "Git it Together - Discussing Source Control",
+        "tags": [
+            "git",
+            "social coding"
+        ],
+        "vimeo": 138116921
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Josh Johnson"
+        ],
+        "title": "How to Lose an iOS Developer in 10 days",
+        "tags": [
+            "management"
+        ],
+        "vimeo": 138117344
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Pfeiffer"
+        ],
+        "title": "The Small Fish in a Big Pond: Working with Large Clients",
+        "tags": [
+            "business",
+            "indie"
+        ],
+        "vimeo": 138029043
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Gene Whitaker"
+        ],
+        "title": "Magic Words - Harnessing the Power of TextKit",
+        "tags": [
+            "textkit"
+        ],
+        "vimeo": 138031038
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jay Graves"
+        ],
+        "title": "Provisioning Profile Stockholm Syndrome",
+        "tags": [
+            "provisioning"
+        ],
+        "vimeo": 138019345
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Charles Perry"
+        ],
+        "title": "Succeeding Slwoing - A Practical Guide to Going Indie",
+        "tags": [
+            "business",
+            "indie"
+        ],
+        "vimeo": 138022673
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Stephen Barnes"
+        ],
+        "title": "Android 101 for iOS Developers - Two Sides of the Same Coin",
+        "tags": [
+            "android"
+        ],
+        "vimeo": 138033150
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jay Thrash"
+        ],
+        "title": "Good Intentions II: Enemy of the State",
+        "tags": [
+            "architecture"
+        ],
+        "vimeo": 138034525
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Cate Huston"
+        ],
+        "title": "iOS Testing: Beyond the Model",
+        "tags": [
+            "testing"
+        ],
+        "vimeo": 138025340
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ellen Shapiro",
+            "Aaron Shekey"
+        ],
+        "title": "The Power of Working Code and Designers Who Develop",
+        "tags": [
+            "inspirational"
+        ],
+        "vimeo": 138027024
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kyle Fuller"
+        ],
+        "title": "Practical Declarative Programming",
+        "tags": [
+            "functional programming",
+            "refactor"
+        ],
+        "vimeo": 138035285
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael Schneider"
+        ],
+        "title": "Build a Business, Not an App",
+        "tags": [
+            "business",
+            "indie"
+        ],
+        "vimeo": 137539070
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "James Hughes"
+        ],
+        "title": "Beyond the Banner: How to Scale Your Revenue with Innovative Ad Formats",
+        "tags": [
+            "business",
+            "marketing"
+        ],
+        "vimeo": 137548959
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Adam Zolyak"
+        ],
+        "title": "Welcome to the Team",
+        "tags": [
+            "teams"
+        ],
+        "vimeo": 137547563
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Shawn Davison"
+        ],
+        "title": "Advanced UX Design for Apple Watch",
+        "tags": [
+            "ux",
+            "user experience",
+            "watchos",
+            "watchkit"
+        ],
+        "vimeo": 137545605
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Benjamin Encz"
+        ],
+        "title": "Safer Swift Code with Value Types",
+        "tags": [
+            "value types"
+        ],
+        "vimeo": 137543393
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jonathan Blocksom"
+        ],
+        "title": "SceneKit, Metal, and OpenGL",
+        "tags": [
+            "scenekit",
+            "metal",
+            "opengl",
+            "graphics"
+        ],
+        "vimeo": 137541707
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Justin Williams"
+        ],
+        "title": "Mastering Auto Layout",
+        "tags": [
+            "autolayout"
+        ],
+        "vimeo": 137550517
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Stepan Hruda"
+        ],
+        "title": "Apple Pay: What Happens When you Tap?",
+        "tags": [
+            "apple pay"
+        ],
+        "vimeo": 137558116
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marin Todorov"
+        ],
+        "title": "What’s in for us after the Indiepocalypse?",
+        "tags": [
+            "indie"
+        ],
+        "vimeo": 137559415
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kyle Richter"
+        ],
+        "title": "The Last Job",
+        "tags": [
+            "inspirational"
+        ],
+        "vimeo": 137560485
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Curtis Herbert"
+        ],
+        "title": "Designing for @1x - @3x Without Going Crazy",
+        "tags": [
+            "graphics",
+            "user interface",
+            "tools"
+        ],
+        "vimeo": 137561771
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Janie Clayton"
+        ],
+        "title": "Beyond White: Embracing the iOS Design Aesthetic",
+        "tags": [
+            "user interface",
+            "design"
+        ],
+        "vimeo": 137536119
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Greg Heo"
+        ],
+        "title": "Switching Your Brain to Swift",
+        "tags": [
+            "swift"
+        ],
+        "vimeo": 137530879
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ben Sykes"
+        ],
+        "title": "Innovation Gaming: Perfecting Your Brainstorming Technique for Killer Products & Features",
+        "tags": [
+            "psychology"
+        ],
+        "vimeo": 137525427
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brandon Trebitowski"
+        ],
+        "title": "Stop Saying No - How I Went From Fired, To Indie, To Over $1M In Revenue In Under A Year",
+        "tags": [
+            "business",
+            "indie"
+        ],
+        "vimeo": 137515894
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Grant Davis"
+        ],
+        "title": "Fancy Custom Transitions",
+        "tags": [
+            "transitions"
+        ],
+        "vimeo": 137519217
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jay Graves"
+        ],
+        "title": "What's New in Hybrid App Development",
+        "tags": [
+            "hybrid"
+        ],
+        "vimeo": 137521604
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Matt Galloway"
+        ],
+        "title": "Objective-C Digging the Foundations",
+        "vimeo": 74708693
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rob Elkin"
+        ],
+        "title": "altWWDC",
+        "tags": [
+            "conference"
+        ],
+        "vimeo": 78552963
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Abizer Nasir"
+        ],
+        "title": "Git Submodules",
+        "tags": [
+            "git"
+        ],
+        "vimeo": 99993729
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kurtis Seedbalt"
+        ],
+        "title": "Promises",
+        "tags": [
+            "promises"
+        ],
+        "vimeo": 101841386
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike Abdullah"
+        ],
+        "title": "What's new in iOS 7 for the Hipster's Hipster",
+        "tags": [
+            "ios7"
+        ],
+        "vimeo": 101841686
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kyle Fuller"
+        ],
+        "title": "Memory Management",
+        "tags": [
+            "memory"
+        ],
+        "vimeo": 101842496
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nigel Barber"
+        ],
+        "title": "Fast NEON Math",
+        "tags": [
+            "performance"
+        ],
+        "vimeo": 101849734
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Matt Galloway"
+        ],
+        "title": "ARM for iOS developers",
+        "tags": [
+            "arm"
+        ],
+        "vimeo": 101848722
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rui Peres"
+        ],
+        "title": "iOS Architecture",
+        "tags": [
+            "architecture"
+        ],
+        "vimeo": 101841366
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Luka Bratoš"
+        ],
+        "title": "PonyDebugger",
+        "tags": [
+            "debugging"
+        ],
+        "vimeo": 98275127
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Saul Mora"
+        ],
+        "title": "Everyday Core Data",
+        "tags": [
+            "core data"
+        ],
+        "vimeo": 98275128
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tim Chilvers"
+        ],
+        "title": "High fashion and intriguing bugs in code and work",
+        "tags": [
+            "bugs",
+            "collaboration"
+        ],
+        "vimeo": 98274951
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marin Usalj"
+        ],
+        "title": "Everything you didn't know about Alcatraz",
+        "tags": [
+            "alcatraz",
+            "xcode",
+            "plugin"
+        ],
+        "vimeo": 98274952
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Haight"
+        ],
+        "title": "A first step into other people's apps",
+        "tags": [
+            "reveal",
+            "lldb"
+        ],
+        "vimeo": 98272941
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nigel Barber"
+        ],
+        "title": "How to draw lines _very_ fast",
+        "tags": [
+            "performance",
+            "optimization"
+        ],
+        "vimeo": 98274186
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Boris Bügling"
+        ],
+        "title": "Custom Playgrounds",
+        "tags": [
+            "playgrounds"
+        ],
+        "vimeo": 100785878
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Johannes Weiß"
+        ],
+        "title": "Introduction to Functional Programming",
+        "tags": [
+            "functional programming"
+        ],
+        "vimeo": 100786088
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kyle Fuller"
+        ],
+        "title": "A swift approach",
+        "tags": [
+            "swift"
+        ],
+        "vimeo": 103413459
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rob Stearn"
+        ],
+        "title": "MultiPeer Networking",
+        "tags": [
+            "multipeer",
+            "networking"
+        ],
+        "vimeo": 103581232
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Scott Goodson"
+        ],
+        "title": "Behind AsyncDisplayKit",
+        "tags": [
+            "asyncdisplaykit",
+            "user interaction",
+            "animations"
+        ],
+        "vimeo": 103589245
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sally Shepard"
+        ],
+        "title": "Making an app like 'Clear' accessible",
+        "tags": [
+            "accessibility"
+        ],
+        "vimeo": 105440180
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Abizer Nasir"
+        ],
+        "title": "Thinking in Swift",
+        "tags": [
+            "swift"
+        ],
+        "vimeo": 105440181
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike Abdullah"
+        ],
+        "title": "What's New in iOS8 for Hipsters",
+        "tags": [
+            "ios8"
+        ],
+        "vimeo": 115305205
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Alexsander Akers"
+        ],
+        "title": "The Other WatchKit",
+        "tags": [
+            "watchkit"
+        ],
+        "vimeo": 115305206
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jon Hocking"
+        ],
+        "title": "208 Weeks Later",
+        "tags": [
+            "collaboration"
+        ],
+        "vimeo": 115883260
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Meng To"
+        ],
+        "title": "Fast Interactive Prototyping",
+        "tags": [
+            "prototyping"
+        ],
+        "vimeo": 115883261
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Raimon Lapuente"
+        ],
+        "title": "Little Wins With UIAppearance",
+        "tags": [
+            "uiappearance",
+            "user interface"
+        ],
+        "vimeo": 115883292
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mehdi Mulani"
+        ],
+        "title": "Reverse Engineering on iOS/Mac",
+        "tags": [
+            "reverse engineering"
+        ],
+        "vimeo": 118019962
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Joseph Lord"
+        ],
+        "title": "Beyond \"if let\"",
+        "tags": [
+            "swift"
+        ],
+        "vimeo": 118019963
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Thomas Catterall"
+        ],
+        "title": "The Dependencies You Didn't Know You Had",
+        "tags": [
+            "dependencies"
+        ],
+        "vimeo": 118021039
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "JP Simard"
+        ],
+        "title": "Lessons learned wrapping an Objective-C framework in Swift",
+        "tags": [
+            "framework",
+            "swift"
+        ],
+        "vimeo": 118832151
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Francesco Petrungaro"
+        ],
+        "title": "iOS App Security: Common Mistakes and Best Practices",
+        "tags": [
+            "security"
+        ],
+        "vimeo": 118833806
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Johannes Weiß"
+        ],
+        "title": "Type Driven Development in Swift",
+        "tags": [
+            "swift",
+            "types"
+        ],
+        "vimeo": 121126581
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Uri Baghin"
+        ],
+        "title": "Reactive Cocoa and RX Principles 101",
+        "tags": [
+            "reactive cocoa",
+            "rx"
+        ],
+        "vimeo": 121126582
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Joel Parsons"
+        ],
+        "title": "The Modern Password and You",
+        "tags": [
+            "security"
+        ],
+        "vimeo": 121127087
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tom Dixon"
+        ],
+        "title": "A Delve into Custom Keyboards",
+        "tags": [
+            "keyboards"
+        ],
+        "vimeo": 129662678
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Neil Kimmett"
+        ],
+        "title": "Practical Watchkit",
+        "tags": [
+            "watchkit"
+        ],
+        "vimeo": 133127238
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Honza Dvorsky"
+        ],
+        "title": "Continuous Integration on the Edge",
+        "tags": [
+            "continuous integration",
+            "xcode server",
+            "buildasaur"
+        ],
+        "vimeo": 133130698
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "John Sundell"
+        ],
+        "title": "Dynamic, native User Interfaces on iOS",
+        "tags": [
+            "dynamic interface",
+            "ui"
+        ],
+        "vimeo": 140421667
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jani Eväkallio"
+        ],
+        "title": "React Native: Introduction and a Case Study",
+        "tags": [
+            "react native"
+        ],
+        "vimeo": 140421668
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marco Sero"
+        ],
+        "title": "Legacy Apps",
+        "tags": [
+            "legacy apps"
+        ],
+        "vimeo": 140421669
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tomasz Piekarczyk"
+        ],
+        "title": "Core Data - Going Big and Getting There",
+        "tags": [
+            "core data"
+        ],
+        "vimeo": 142254755
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mike McDonald"
+        ],
+        "title": "Simplifying IoT with Firebase",
+        "tags": [
+            "iot",
+            "firebase"
+        ],
+        "vimeo": 143903802
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Paul Ardeleanu"
+        ],
+        "title": "Developers’ Emergency Guide to Public Speaking",
+        "tags": [
+            "presentation",
+            "conference",
+            "public speaking"
+        ],
+        "vimeo": 143903803
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Paul Stringer"
+        ],
+        "title": "Acceptance Testing  for iOS",
+        "tags": [
+            "acceptance testing",
+            "testing"
+        ],
+        "vimeo": 151043020
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Csordas Csaba"
+        ],
+        "title": "Work hard and REST",
+        "tags": [
+            "rest",
+            "api",
+            "security"
+        ],
+        "vimeo": 151043021
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Bohdan Orlov"
+        ],
+        "title": "iOS Architecture Patterns",
+        "tags": [
+            "architecture",
+            "mvvm"
+        ],
+        "vimeo": 153520720
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mark Szulyovszky"
+        ],
+        "title": "Quick introduction to RFP with zero theory",
+        "tags": [
+            "architecture",
+            "frp",
+            "functional",
+            "functional programming",
+            "functional reactive programming"
+        ],
+        "vimeo": 153520718
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rheese Burgess"
+        ],
+        "title": "Using Elm/React inspired architecture to build Cocoa apps in a functional way",
+        "tags": [
+            "architecture",
+            "frp",
+            "functional",
+            "functional programming",
+            "functional reactive programming"
+        ],
+        "vimeo": 153520719
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mannie Tagarira"
+        ],
+        "title": "Code Reviews",
+        "tags": [
+            "code quality",
+            "teams"
+        ],
+        "vimeo": 153826697
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Emily Toop"
+        ],
+        "title": "Diagnosing Allergies",
+        "tags": [
+            "data science",
+            "health"
+        ],
+        "vimeo": 153826698
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ron Herrema"
+        ],
+        "title": "Developing Sophisticated iOS Audio projects with libpd",
+        "tags": [
+            "audio"
+        ],
+        "vimeo": 153826702
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Shane Reid"
+        ],
+        "title": "Performance issues at Grabble",
+        "tags": [
+            "performance"
+        ],
+        "vimeo": 153826701
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Thomas Catterall"
+        ],
+        "title": "Crash Your App: Five Tips In Five Minutes For Building a Stable App",
+        "tags": [
+            "code quality"
+        ],
+        "vimeo": 153826699
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "James Thomson"
+        ],
+        "title": "20 Years of Indie Development",
+        "description": "James has been an indie Mac and iOS developer for more than 20 years, creating apps like PCalc and DragThing, as well as working for Apple on the Mac OS X Finder and Dock. He will talk about what has changed, and what has stayed the same, from the days of System 7 through to iOS 7.",
+        "tags": [
+            "indie"
+        ],
+        "vimeo": 95962975
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Lex Friedman"
+        ],
+        "title": "Being Apple",
+        "description": "Apple offers a lot to aspire to. It’s a big company that’s achieved amazing things, amazing successes, and amazing profits to go along with them. In this talk, Lex will offer up insights on how you can be like Apple in less obvious ways, even it doesn’t score you a $500 billion market cap",
+        "tags": [],
+        "vimeo": 97516548
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Ben Balckburne"
+        ],
+        "title": "Squeezing machine learning algorithms onto an iPad",
+        "description": "Machine learning algorithms can deliver apparently magical features in an app. Typically they require server-side processing, but that means both paying for compute time and moving potentially big or sensitive data over the internet. How do we make machine learning algorithms work within the CPU and RAM constraints of an iOS device?",
+        "tags": [
+            "ai"
+        ],
+        "vimeo": 97516104
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Steve Scott (Scotty)"
+        ],
+        "title": "Building App Communities",
+        "description": "Community is powerful. It creates ownership, advocacy and loyalty. Scotty looks at what it makes community work and how developers can get these forces to work for them by building community around their products.",
+        "tags": [
+            "community"
+        ],
+        "vimeo": 97513761
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jeff LaMarche"
+        ],
+        "title": "Surviving The Game",
+        "description": "In the world of software, product development is hard, and game development is even harder. The mobile software market is no longer a frontier. Large game publishers have joined the fray, bringing with them multi-million dollar budgets and dedicated advertising campaigns. As smaller game companies struggle to survive and larger ones consolidate in an effort to compete better, nobody in their right mind would get into game development now.",
+        "tags": [
+            "games",
+            "business"
+        ],
+        "vimeo": 97513702
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Martin Winter"
+        ],
+        "title": "Ahead of the curve: Understanding bezier paths",
+        "description": "Martin talks about the maths bezier paths and then shows some practical examples (including how to draw randomized but natural-looking roads and rivers on a fictitious map) and API use.",
+        "tags": [
+            "coregraphics",
+            "graphics"
+        ],
+        "vimeo": 97511944
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Halle Winkler"
+        ],
+        "title": "Post-Apocalyptic Technical Ethics",
+        "description": "We learned some disquieting things about our governments and our industry in 2013. Summer's developer mantra of \"was anyone surprised by any of this?\" eventually turned into autumn's awkward silence as we also discovered that few of the technologies we base our own privacy expectations on are uncompromised.",
+        "tags": [
+            "ethics"
+        ],
+        "vimeo": 97510768
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael Gachet"
+        ],
+        "title": "You never know where ios development may take you",
+        "description": "This talk will go over a unique indie development experience which led to helping NGOs in the Horn of Africa find water for local populations.",
+        "tags": [
+            "indie"
+        ],
+        "vimeo": 97510547
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Mattt Thompson"
+        ],
+        "title": "Software Design & Eclecticism",
+        "description": "What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.",
+        "tags": [
+            "foundation"
+        ],
+        "vimeo": 97508062
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael Lopp"
+        ],
+        "title": "The Engineer, The Designer, and the Dictator",
+        "description": "During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”",
+        "tags": [
+            "career"
+        ],
+        "vimeo": 97507451
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Karsten Kusche"
+        ],
+        "title": "Building the next generation programming language",
+        "description": "Humans are not the only ones working with the code, computers need to work with it too. If computers have an easier time working with the code, humans can enjoy much better tools to deal with the code!",
+        "tags": [
+            "language"
+        ],
+        "vimeo": 97102075
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Pasco"
+        ],
+        "title": "A Bil-centric view of product development",
+        "description": "Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he's recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)",
+        "tags": [
+            "business"
+        ],
+        "vimeo": 97201703
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Luc Vandal"
+        ],
+        "title": "Land or Slam",
+        "description": "How lessons I’ve learned from skateboarding have influenced my current business.",
+        "tags": [
+            "business",
+            "indie"
+        ],
+        "vimeo": 97114266
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tobias Klonk"
+        ],
+        "title": "Another approach to observation",
+        "description": "In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.",
+        "tags": [
+            "objective-c",
+            "kvo"
+        ],
+        "vimeo": 97102055
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marcus S. Zarra"
+        ],
+        "title": "Not Invented Here",
+        "description": "We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.",
+        "tags": [],
+        "vimeo": 97058344
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Charles Parnot"
+        ],
+        "title": "The Kitchen Sink Database",
+        "description": "A database is where you store your data. But in practice, your database scheme can quickly grow to become an untamed beast that makes you cry at night. To improve performance, you have the infamous `full_name` column living next to `first_name` and `last_name`; and then there’s `canonical_full_name` for proper search; and `needs_thumbnail` to keep track of thumbnail operations; and an extra table to normalize some relationships needed in the UI; and so on.  Every time you change the UI or add features, your database scheme gets more complicated. Maybe you did survive the software updates, the not-so-automatic migrations, the if statements littered around and the special `rebuildCache` methods. But now your f*^%$@ users want syncing, and you fear for your sanity. Here is the problem: your database is used both for **storing** the actual data and for **displaying** that data and managing the UI. Your data model is torn between two antagonistic goals, and you have a kitchen sink database. I propose a different approach where you explicitly separate those two functions, and with which you can ultimately get your sanity back.",
+        "tags": [
+            "sync"
+        ],
+        "vimeo": 96172262
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "David Smith"
+        ],
+        "title": "While Nobody is Looking",
+        "description": "There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.",
+        "tags": [
+            "business",
+            "indie"
+        ],
+        "vimeo": 96086552
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Scott Little"
+        ],
+        "title": "What’s it like to fiddle Mail’s bits?",
+        "description": "Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.",
+        "tags": [
+            "plugin"
+        ],
+        "vimeo": 96077948
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Sean Woodhouse"
+        ],
+        "title": "Tips and tricks for recording your meetup presentations",
+        "description": "Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.",
+        "tags": [
+            "community"
+        ],
+        "vimeo": 96107143
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Markos Charatzas"
+        ],
+        "title": "Sound Debugging",
+        "description": "Sound debugging is about elevating Xcode's ability to play sounds on a breakpoint to visualise code execution",
+        "tags": [
+            "debugging",
+            "xcode"
+        ],
+        "vimeo": 96070920
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rich Siegel"
+        ],
+        "title": "Red Meat and Gin",
+        "description": "Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable.",
+        "tags": [
+            "business"
+        ],
+        "vimeo": 96057339
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Damian Sullivan"
+        ],
+        "title": "Legal Considerations For Contract Developers",
+        "description": "Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.",
+        "tags": [
+            "business",
+            "legal"
+        ],
+        "vimeo": 96004975
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Amy Worrall"
+        ],
+        "title": "KVO Considered Awesome",
+        "description": "A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.",
+        "tags": [
+            "kvo"
+        ],
+        "vimeo": 95999854
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Matthew Robinson"
+        ],
+        "title": "NSURLProtocol, Foundation's man-in-the-middle",
+        "description": "Mattt Thompson described NSURLProtocol as \"an Apple-sanctioned man-in-the-middle attack.\"  Buried deep in Foundation's URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload.",
+        "tags": [
+            "foundation",
+            "networking"
+        ],
+        "vimeo": 95956326
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Giovanni Tarducci"
+        ],
+        "title": "Making Apps in Stop-Motion",
+        "description": "We are in the special effects business without even realizing it.",
+        "tags": [],
+        "vimeo": 95951952
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Koen Bok"
+        ],
+        "title": "Prototyping anything you can imagine",
+        "description": "The future of design tools, prototyping and Framer.",
+        "tags": [
+            "framer",
+            "prototyping"
+        ],
+        "vimeo": 142850816
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Eidhof"
+        ],
+        "title": "Swift C Interoperability",
+        "description": "In this talk, we'll look at Swift's interoperability with C, and how to wrap C functions in a way that feels native to Swift.",
+        "tags": [
+            "swift",
+            "c",
+            "interoperability"
+        ],
+        "vimeo": 142850815
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Eidhof"
+        ],
+        "title": "Swift and C Interop",
+        "tags": [
+            "swift",
+            "interop"
+        ],
+        "youtube": "p7wtjTnzErA"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Bartosz Waresiak"
+        ],
+        "title": "Playing with Instruments",
+        "tags": [
+            "xcode",
+            "instruments"
+        ],
+        "youtube": "yzILC67e838"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kamil Trzciński"
+        ],
+        "title": "Android vs iOS security comparison",
+        "tags": [
+            "security"
+        ],
+        "youtube": "UfWJQJpj_kc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Błażej Marcinkiewicz"
+        ],
+        "title": "Protecting iOS apps",
+        "tags": [
+            "security"
+        ],
+        "youtube": "aM6mrH1Mgnw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Scott Little"
+        ],
+        "title": "Go for a Sub: using a subscription model for your product",
+        "tags": [
+            "mac",
+            "business"
+        ],
+        "youtube": "8B_xrozB1S8"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Paweł Dudek"
+        ],
+        "title": "Introduction to Behavior Driven Development. The whys and hows",
+        "tags": [
+            "testing",
+            "bdd"
+        ],
+        "youtube": "GMW42938dEE"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marcin Krzyżanowski"
+        ],
+        "title": "Crypto? Been there, done that",
+        "description": "Implementing OpenPGP and cryptography on iOS.",
+        "tags": [
+            "openpgp",
+            "cryptography",
+            "swift",
+            "security"
+        ],
+        "youtube": "FWHADBbn4Kc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Maciej Oczko"
+        ],
+        "title": "Dependency injection on iOS",
+        "tags": [
+            "dependency",
+            "injection"
+        ],
+        "youtube": "OcgL6P2bDyM"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Hector Zarate"
+        ],
+        "title": "iOS at Spotify: From Plan to Done",
+        "tags": [
+            "business"
+        ],
+        "youtube": "VF_ScayzDcw"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Adrian Kashivskyy"
+        ],
+        "title": "Hidden gems in Swift",
+        "tags": [
+            "swift"
+        ],
+        "youtube": "NP7PdeZv75w"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Alexey Denisov"
+        ],
+        "title": "Magic Behind Xcode Compilation.",
+        "tags": [
+            "xcode",
+            "compilation",
+            "compiler"
+        ],
+        "youtube": "w3jKBWkspNI"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Edgar Neto"
+        ],
+        "title": "Efficient Localisation",
+        "tags": [
+            "localization"
+        ],
+        "youtube": "vz6Co9HFSag"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marcio Klepacz"
+        ],
+        "title": "How we integrate and deploy mobile apps with Travis CI",
+        "tags": [
+            "ci",
+            "cd"
+        ],
+        "youtube": "lITbVPttDoc"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marius Rackwitz"
+        ],
+        "title": "Error Handling In Swift 2.0",
+        "tags": [
+            "swift",
+            "error"
+        ],
+        "youtube": "kGIKwIOMK8A"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Radek Pietruszewski"
+        ],
+        "title": "Achieving clarity in Swift",
+        "tags": [
+            "swift",
+            "design"
+        ],
+        "youtube": "YA1C0Zcs9IQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Arkadiusz Holko"
+        ],
+        "title": "Taming Core Data",
+        "tags": [
+            "core",
+            "data"
+        ],
+        "youtube": "NfQFAjt-spY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Maciej Witaszek"
+        ],
+        "title": "tvOS: Don't touch the screen",
+        "tags": [
+            "tvOS"
+        ],
+        "youtube": "GhmiGZZmmrQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kamila Wojciechowska"
+        ],
+        "title": "Cash Rich, Time Poor",
+        "tags": [
+            "business"
+        ],
+        "youtube": "2h6cywhWawE"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Karol Kozub"
+        ],
+        "title": "3D Touch",
+        "tags": [
+            "3dtouch"
+        ],
+        "youtube": "F6u2ab3Vdns"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Maxim Zaks"
+        ],
+        "title": "Beyond JSON",
+        "tags": [
+            "json",
+            "bson"
+        ],
+        "youtube": "OUNpNo-oyQY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Szymon Kuczur"
+        ],
+        "title": "Rrrrrr… MVVM and Reactive Programming",
+        "tags": [
+            "mvvm",
+            "reactive"
+        ],
+        "youtube": "WkOnvw4zC4A"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Radek Pietruszewski"
+        ],
+        "title": "Statically-Typed Swifty APIs",
+        "tags": [
+            "swift",
+            "api",
+            "typesystem"
+        ],
+        "youtube": "z9oF92dQ2DY"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Krzysztof Siejkowski"
+        ],
+        "title": "RxSwift: an elegant weapon for statically typed age",
+        "tags": [
+            "rxswift",
+            "reactive"
+        ],
+        "youtube": "CBUb7V75h4U"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tom Lokhorst"
+        ],
+        "title": "Swift JsonGen, a code generator",
+        "description": "Tom Lokhorst talks about parsing JSON in Swift. Why is this such a problem? What libraries are there to solve this problem? And how he created a code generator to deal with JSON once and for all.",
+        "tags": [
+            "json",
+            "code generation"
+        ],
+        "vimeo": 152054122
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Niels van Hoorn"
+        ],
+        "title": "Protocol-Oriented DataSources",
+        "description": "Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond and Swift, Niels does a live coding deep dive into protocols, extensions and type aliases.",
+        "tags": [
+            "protocols",
+            "live coding"
+        ],
+        "vimeo": 152193160
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Chris Barajas"
+        ],
+        "title": "Thank You for Bugging me",
+        "description": "Chris provides support for users of Rogue Amoeba’s fine audio software. There is no good substitute for human-to-human support, although technology can provide shortcuts. Chris talked about how technology and humanity intersect in the role of support, and how good support finds the strengths of each to keep a company and its customers happy.",
+        "tags": [
+            "support"
+        ],
+        "vimeo": 153709408
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Allen Pike"
+        ],
+        "title": "Competing with Art",
+        "description": "Allen spoke about the similarities between indie programmers and artists/musicians. Thanks to advances our tools and the community it's never been an easier time to get into programming, but that leads to a highly competitive hit-driven economy very similar to music, where it can be hard to get noticed. Sometimes we need to focus on our side projects not for the potential economic gains, but the creative outlet they provide.",
+        "tags": [
+            "support"
+        ],
+        "vimeo": 153679708
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Curt Clifton"
+        ],
+        "title": "Runtime Hacking for Fun and Profit",
+        "tags": [
+            "runtime",
+            "objective-c"
+        ],
+        "vimeo": 151482623
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Tim Ekl"
+        ],
+        "title": "Fix issue",
+        "tags": [
+            "xcode",
+            "provisioning"
+        ],
+        "vimeo": 154148473
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nathaniel Irons"
+        ],
+        "title": "Ignore That Young Man From 2014",
+        "tags": [
+            "xcode",
+            "build",
+            "archive"
+        ],
+        "vimeo": 154146675
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Nathan Corvino"
+        ],
+        "title": "Universal Links, with a Nod to Other Web-Like Advances",
+        "tags": [
+            "universal links"
+        ],
+        "vimeo": 151531189
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Vivek Gani"
+        ],
+        "title": "A Swift Introduction to Reactive Cocoa",
+        "tags": [
+            "swift",
+            "reactive cocoa"
+        ],
+        "vimeo": 158447577
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Pavan Adavi"
+        ],
+        "title": "Continuous Integrations for iOS Apps",
+        "tags": [
+            "xcode",
+            "build",
+            "continuous integration"
+        ],
+        "vimeo": 158290425
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marin Todorov"
+        ],
+        "title": "Building reactive apps with Realm",
+        "tags": [
+            "realm",
+            "reactive"
+        ],
+        "youtube": "IFhkuSI6NBk"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Raimon Lapuente",
+            "Gergely Orosz"
+        ],
+        "title": "Sorry Objc: It's not you, it's me",
+        "tags": [
+            "swift"
+        ],
+        "vimeo": 161661457
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Maxim Cramer"
+        ],
+        "title": "Live Design",
+        "tags": [
+            "design"
+        ],
+        "vimeo": 161666031
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Johannes Weiß"
+        ],
+        "title": "Technical detail behind the Apple-FBI case",
+        "tags": [
+            "security"
+        ],
+        "vimeo": 161446917
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Haight"
+        ],
+        "title": "Implementing a code injection framework",
+        "tags": [
+            "code injection",
+            "frameworks"
+        ],
+        "vimeo": 162067247
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Simon Gladman"
+        ],
+        "title": "Advanced image processing with Core Image",
+        "tags": [
+            "coreimage"
+        ],
+        "vimeo": 161446915
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Marisa Montaldi"
+        ],
+        "title": "Designing for People on the Autistic Spectrum",
+        "tags": [
+            "design",
+            "accessibility"
+        ],
+        "vimeo": 164735055
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Daniel Tomlinson"
+        ],
+        "title": "Building APIs in Swift",
+        "tags": [
+            "swift",
+            "api"
+        ],
+        "vimeo": 164738511
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Michael May"
+        ],
+        "title": "The Empathetic Programmer",
+        "tags": [
+            "teams",
+            "legacy apps"
+        ],
+        "vimeo": 164883550
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Elmar Kretzer"
+        ],
+        "title": "Palau - NSUserDefaults in the age of Swift",
+        "tags": [
+            "swift",
+            "nsuserdefaults"
+        ],
+        "youtube": "290B44t4Jm0"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Madhava Jay"
+        ],
+        "title": "Giving back with GitHub",
+        "tags": [
+            "frameworks",
+            "opensource"
+        ],
+        "youtube": "ErG-8-TMXug"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Stefan Mayer-Popp"
+        ],
+        "title": "Framework based architecture using Cocoapods",
+        "tags": [
+            "frameworks",
+            "architecture"
+        ],
+        "youtube": "JTudKIEtlQQ"
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Jake Savin"
+        ],
+        "title": "How to Fail by Following the Plan",
+        "tags": [
+            "project management"
+        ],
+        "vimeo": 159888691
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Regine Horteur"
+        ],
+        "title": "App Delight in the Service of Habit Forming",
+        "tags": [
+            "app",
+            "personality"
+        ],
+        "vimeo": 164957199
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "David Hoang"
+        ],
+        "title": "Designers Working in Xcode",
+        "tags": [
+            "design",
+            "xcode"
+        ],
+        "vimeo": 164957199
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Brenden West"
+        ],
+        "title": "Health Data Apps with ResearchKit",
+        "tags": [
+            "researchkit",
+            "health"
+        ],
+        "vimeo": 168695472
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Romaine Reid"
+        ],
+        "title": "Utilising Motion Design to Enhance Your App",
+        "tags": [
+            "user interface",
+            "user experience",
+            "animation",
+            "interaction design"
+        ],
+        "vimeo": 170323220
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Roy Marmelstein"
+        ],
+        "title": "Scandal and Controversy in iOS Development",
+        "tags": [
+            "storyboards",
+            "kvo",
+            "design patterns"
+        ],
+        "vimeo": 170323222
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Eduardo Aguilar"
+        ],
+        "title": "Overcoming Technical Difficulties",
+        "tags": [
+            "deployment",
+            "enterprise",
+            "mdm",
+            "xcode server"
+        ],
+        "vimeo": 174225591
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Honza Dvorsky"
+        ],
+        "title": "Swift Package Manager",
+        "tags": [
+            "swift",
+            "swiftpm",
+            "dependencies",
+            "build",
+            "testing"
+        ],
+        "vimeo": 174225592
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Rob Elkin"
+        ],
+        "title": "AltConf: Behind the Scenes",
+        "tags": [
+            "conference",
+            "legal"
+        ],
+        "vimeo": 174225593
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Juan Delgado"
+        ],
+        "title": "Product vs Craft",
+        "tags": [
+            "project management"
+        ],
+        "vimeo": 178441743
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Kyle Fuller"
+        ],
+        "title": "Testing without Xcode",
+        "tags": [
+            "testing",
+            "swift",
+            "swiftpm",
+            "cross-platform"
+        ],
+        "vimeo": 178934003
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Bastian Andelefski"
+        ],
+        "title": "MVVM-C A simple way to navigate",
+        "tags": [
+            "design patterns",
+            "architecture",
+            "mvvm"
+        ],
+        "vimeo": 177566153
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Dan Ursu"
+        ],
+        "title": "Automate Everything",
+        "description": "Setting up your own CI solution in 24 hours. Including fastlane, Danger and Git.",
+        "tags": [
+            "ci",
+            "fastlane",
+            "git",
+            "danger"
+        ],
+        "vimeo": 227875900
+    },
+    {
+        "language": "English",
+        "speakers": [
+            "Antoine van der Lee"
+        ],
+        "title": "Building the new WeTransfer app",
+        "description": "WeTransfer build a new mobile app and Antoine talks about their working culture, open sourcing, their CI setup and taking proper time to setup your environment for effective development.",
+        "tags": [
+            "ci",
+            "danger"
+        ],
+        "vimeo": 227875466
+    }
+]
