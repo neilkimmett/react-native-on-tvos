@@ -17,18 +17,11 @@ import {
 export default class App extends Component {
   render() {
     return (
-      <Navigation />
+      <Home />
     )
   }
 }
 
-class Navigation extends Component {
-  render () {
-    return (
-      <Home styles={styles.container} />
-    )
-  }
-}
 
 class Home extends Component {
 
@@ -55,33 +48,11 @@ class Home extends Component {
 }
 
 class Card extends Component {
-  constructor (props) {
-    super(props)
-    this.state = {
-      focused: false,
-    }
-  }
-
-  onPressIn = () => this.setState({ focused: true })
-
-  onPressOut = () => this.setState({ focused: false })
 
   render () {
-    const {focused} = this.state
     const {item} = this.props
     return (
-      <TouchableHighlight
-        style={[styles.card,
-          {
-            opacity: focused ? 1 : 0.5,
-            transform: [
-              {scale: focused ? 1 : 0.85},
-            ],
-          },
-        ]}
-        onPressIn={this.onPressIn}
-        onPressOut={this.onPressOut}
-      >
+      <TouchableHighlight style={styles.card}>
           <YouTubeImage id={item.youtube}>
             <View style={styles.textBg}>
               <Text style={styles.title} numberOfLines={2}>
