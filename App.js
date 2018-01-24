@@ -60,7 +60,7 @@ class Card extends Component {
               </Text>
 
               <Text style={styles.speaker}>
-                {item.speakers[0]}
+                {item.speakers.join(", ")}
               </Text>
             </View>
           </YouTubeImage>
