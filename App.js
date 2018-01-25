@@ -11,31 +11,88 @@ import {
   StyleSheet,
   Text,
   View,
-  TouchableHighlight
+  TabBarIOS,
+  TouchableHighlight,
+  requireNativeComponent
 } from 'react-native';
 
 export default class App extends Component {
   render() {
     return (
-      <Home />
+      <Navigation />
     )
   }
 }
 
+var Search = requireNativeComponent('NKSearchComponent', null)
 
-class Home extends Component {
+class Navigation extends Component {
+  constructor (props) {
+    super(props)
+    this.state = {
+      selectedTab: 'home',
+      searchText: ''
+    }
+  }
+
+  onPress (tab) {
+    return () => {
+      this.setState({selectedTab: tab})
+    }
+  }
+  render () {
+    return (
+      <TabBarIOS>
+        <TabBarIOS.Item
+          title='Home'
+          selected={this.state.selectedTab == 'home'}
+          onPress={this.onPress('home')}
+        >
+          <VideoGrid style={styles.container} />
+        </TabBarIOS.Item>
+
+        <TabBarIOS.Item
+          title='Search'
+          selected={this.state.selectedTab == 'search'}
+          onPress={this.onPress('search')}
+        >
+          <Search style={styles.search} onChangeText={this.onChangeText}>
+            <VideoGrid searchText={this.state.searchText}/>
+              </Search>
+        </TabBarIOS.Item>
+      </TabBarIOS>
+    )
+  }
+
+  onChangeText = (event) => {
+    this.setState({searchText: event.nativeEvent.text})
+   }
+}
+
+
+class VideoGrid extends Component {
 
   render () {
     return (
       <FlatList
         contentContainerStyle={styles.list}
-        data={videos()}
+        data={this.videos(this.props.searchText)}
         renderItem={this.renderItem}
         keyExtractor={this.keyExtractor}
         numColumns={4}
         horizontal={false}
       />
     )
+  }
+
+  videos = (text) => {
+    var allVideos = require('./videos.json').filter((item) => item.youtube != null);
+    if (text) {
+      return allVideos.filter((item) => item.title.toLowerCase().includes(text))
+    }
+    else {
+      return allVideos
+    }
   }
 
   keyExtractor = (item, _) => item.youtube
@@ -48,11 +105,33 @@ class Home extends Component {
 }
 
 class Card extends Component {
+  constructor (props) {
+    super(props)
+    this.state = {
+      focused: false,
+    }
+  }
+
+  onPressIn = () => this.setState({ focused: true })
+  onPressOut = () => this.setState({ focused: false })
 
   render () {
+    const {focused} = this.state
     const {item} = this.props
     return (
-      <TouchableHighlight style={styles.card}>
+      <TouchableHighlight
+        style={[styles.card,
+          {
+            opacity: focused ? 1 : 0.5,
+            transform: [
+              {scale: focused ? 1 : 0.85},
+            ],
+          }
+        ]}
+        onPressIn={this.onPressIn}
+        onPressOut={this.onPressOut}
+
+      >
           <YouTubeImage id={item.youtube}>
             <View style={styles.textBg}>
               <Text style={styles.title} numberOfLines={2}>
@@ -80,10 +159,6 @@ class YouTubeImage extends Component {
       </ImageBackground>
     )
   }
-}
-
-function videos() {
-  return require('./videos.json').filter((item) => item.youtube != null);
 }
 
 const styles = StyleSheet.create({
@@ -119,5 +194,8 @@ const styles = StyleSheet.create({
   image: {
     width: 460,
     height: 258,
+  },
+  search: {
+    flex: 1
   }
 });
